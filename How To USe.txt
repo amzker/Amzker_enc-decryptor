@@ -1,0 +1,26 @@
+
+<====================>
+    How To Use
+<====================>
+1. Copy Text From .enc File 
+2. Paste In File.txt 
+
+        OR
+ Move .enc File In This [decryptor] Folder And Rename As file.txt
+ 
+3. Run Decryptor.sh 
+
+<==============>
+  Before Use
+<==============>
+
+Give Permission To Decryptor.sh 777
+"chmod 777 decryptor.sh"
+
+===============
+  RUN Using
+===============
+
+"./decryptor.sh"
+
+Contact To Dev :- Telegram & in HTB @amzker
