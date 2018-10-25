@@ -8,7 +8,8 @@
         OR
  Move .enc File In This [decryptor] Folder And Rename As file.txt
  
-3. Run Decryptor.sh 
+3. In libs Folder Paste Passlist , Rename passlist.txt { Better To Use rockyou.txt } 
+4. Run Decryptor.sh 
 
 <==============>
   Before Use
